@@ -1,44 +1,32 @@
 [
     {
-    "Title": "Title 1",
-    "TextContent": "Content 1",
-    "Image": "https://placehold.co/250x200",
-    "FooterContent": "Foooooooooooter"
+      "Title": "Journey to the Mountains",
+      "TextContent": "Experience the breathtaking views and serene environment of the mountains. Perfect for a weekend getaway.",
+      "Image": "https://placehold.co/250x200?text=Mountains",
+      "FooterContent": "Discover more adventures."
     },
     {
-    "Title": "Title 2",
-    "TextContent": "Content 2",
-    "Image": "https://placehold.co/250x200",
-    "FooterContent": "Foooooooooooter"
+      "Title": "Culinary Delights",
+      "TextContent": "Indulge in a variety of gourmet dishes from around the world. A treat for your taste buds!",
+      "Image": "https://placehold.co/250x200?text=Food",
+      "FooterContent": "Explore more recipes."
     },
     {
-    "Title": "Title 1",
-    "TextContent": "Content 1",
-    "Image": "https://placehold.co/250x200",
-    "FooterContent": "Foooooooooooter"
+      "Title": "Urban Exploration",
+      "TextContent": "Dive into the bustling life of the city. From skyscrapers to street food, there's always something to discover.",
+      "Image": "https://placehold.co/250x200?text=City",
+      "FooterContent": "Find out more about urban life."
     },
     {
-    "Title": "Title 1",
-    "TextContent": "Content 1",
-    "Image": "https://placehold.co/250x200",
-    "FooterContent": "Foooooooooooter"
+      "Title": "Tech Innovations",
+      "TextContent": "Stay updated with the latest technological advancements. From AI to blockchain, the future is here.",
+      "Image": "https://placehold.co/250x200?text=Tech",
+      "FooterContent": "Read more about tech trends."
     },
     {
-    "Title": "Title 1",
-    "TextContent": "Content 1",
-    "Image": "https://placehold.co/250x200",
-    "FooterContent": "Foooooooooooter"
-    },
-    {
-    "Title": "Title 1",
-    "TextContent": "Content 1",
-    "Image": "https://placehold.co/250x200",
-    "FooterContent": "Foooooooooooter"
-    },
-    {
-    "Title": "Title 1",
-    "TextContent": "Content 1",
-    "Image": "https://placehold.co/250x200",
-    "FooterContent": "Foooooooooooter"
+      "Title": "Art & Culture",
+      "TextContent": "Explore the world of art and culture. From classical paintings to modern art, immerse yourself in creativity.",
+      "Image": "https://placehold.co/250x200?text=Art",
+      "FooterContent": "Dive deeper into the world of art."
     }
-]
+  ]  

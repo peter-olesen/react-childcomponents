@@ -1,5 +1,7 @@
 import { Wrapper } from './components/Wrapper/Wrapper'
-import { Card, CardHeader, CardContent, CardFooter } from './components/Card/Card'
+// import { Card, CardHeader, CardContent, CardFooter } from './components/Card/Card'
+import { CardMap } from './components/CardMap/CardMap'
+
 import './App.scss'
 
 function App() {
@@ -7,14 +9,14 @@ function App() {
   return (
     <>
     
-    <Wrapper
+    {/* <Wrapper
       title = "Hello"
       subTitle = "There"
       >
       <h1>Hello again</h1>
-    </Wrapper>
+    </Wrapper> */}
 
-    <Card>
+    {/* <Card>
         <CardHeader CardTitle = "Fack me" />
         <CardContent CardText = "Lorem ipsum dolor sit amet" />
         <CardFooter CardCTA = "Wooop" />
@@ -24,7 +26,9 @@ function App() {
       <CardHeader />
       <CardContent />
       <CardFooter />
-    </Card>
+    </Card> */}
+
+    <CardMap />
 
     </>
   )

@@ -15,6 +15,12 @@ export const CardHeader = ({ CardTitle = "Default Header" }) => {
     )
 }
 
+export const CardImage = ({ ImageURL = "Default Content" }) => {
+    return (
+        <img src={ImageURL} />
+    )
+}
+
 export const CardContent = ({ CardText = "Default Content" }) => {
     return (
         <p>{CardText}</p>
